@@ -12,6 +12,6 @@ public abstract class Vehicle {
         return name;
     }
 
-    public abstract void move();
+    public abstract void describe();
 
 }
