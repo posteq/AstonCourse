@@ -6,7 +6,7 @@ import by.aston.exception.CustomFileNotFoundException;
 
 public class Main {
 
-    private static final String PATH_TO_INPUT_FILE = "cause/test1.txt";
+    private static final String PATH_TO_INPUT_FILE = "IvanTkachuk/ThirdHomework/src/main/resources/testIOFile.txt";
     private static final String WRONG_PATH_TO_INPUT_FILE = "ttt";
     private static final String OUTPUT_TEXT = "My new String test \n";
 
