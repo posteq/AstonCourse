@@ -9,4 +9,4 @@
 Подойду, взгляну поближе:
 Хрупкий снег изломан весь.
 My new String test
-My new String test 
+My new String test
